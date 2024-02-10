@@ -11,3 +11,7 @@ python manage.py startproject hello
 python manage.py startapp
 
 #from home.models import Contact
+#Contact.objects.all()
+#Contact.objects.all()[1]
+#Contact.objects.all()[2].name
+#contact.objects.filter(email__iendswith="CO.pK") 
